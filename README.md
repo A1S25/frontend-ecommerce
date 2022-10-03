@@ -46,4 +46,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-"All visual of the ecommerce website on image portal ( https://github.com/A1S25/frontend-ecommerce/blob/master/image ) "
+"All visual of the ecommerce website on image folder ( https://github.com/A1S25/frontend-ecommerce/blob/master/image ) "
